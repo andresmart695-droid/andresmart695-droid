@@ -1,7 +1,7 @@
 ## Hi, Am Dev Adamas
 <p>A full-stack developer, very passionate about crafting aesthetic and user-friendly web apps for professionals, brand, organisation et.c.</p>
 
-## Skills & Languages
+## STACK
 #### FE
  - HTML
  - CSS
