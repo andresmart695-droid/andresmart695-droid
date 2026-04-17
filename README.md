@@ -1,15 +1,35 @@
-## Hi there 👋
+## Hi, Am Dev Adamas
+<p>A full-stack developer, very passionate about crafting aesthetic and user-friendly web apps for professionals, brand, organisation et.c.</p>
+
+## Skills & Languages
+#### FE
+ - HTML
+ - CSS
+ - BOOTSTRAP
+ - JAVASCRIPT
+ - JQUERY
+
+### BE
+- NODEJS
+- PHP
+- SQL/MYSQL
+- LARAVEL
+
+### TOOLS
+  #### VCS
+  - GIT
+  - GITHUB
+  - GITLAB
+  - BITBUCKET
+#### API TEST
+- POSTMAN
+- CURL
+
+```
+# PHP whoami.php
+
+ sprintf("hi, %s am a fullstack developer!", "Dev. Adamas");
+
+```
 
 
-**andresmart695-droid/andresmart695-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
